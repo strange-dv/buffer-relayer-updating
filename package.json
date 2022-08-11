@@ -1,0 +1,19 @@
+{
+  "name": "update-br",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "@switchboard-xyz/switchboard-v2": "^0.0.127",
+    "anchor": "project-serum/anchor",
+    "jsbi": "^4.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
